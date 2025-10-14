@@ -12,8 +12,9 @@ I am Software develper in the making sharing my interests and stuff I've learnt.
  📫 How to reach me:  📧liinamassipa@outlook.com  discord: chill_girl_360 <br>
 ⚡ Fun fact: Franz Kafka never got to witness his works being published. <br>
 
- 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=purple-lover-360&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=material-palenight)] ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purple-lover-360&layout=compact)
+
+## GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=purple-lover-360&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=material-palenight)]
 
 ## Tech Stack
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -49,7 +50,7 @@ I am Software develper in the making sharing my interests and stuff I've learnt.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Ballerina](https://img.shields.io/badge/Ballerina-00AEEF.svg?style=for-the-badge&logo=ballerina&logoColor=white)
 
-
+ 
 
 
 
