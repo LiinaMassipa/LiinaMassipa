@@ -15,6 +15,7 @@ I am Software develper in the making sharing my interests and stuff I've learnt.
 
 ## GitHub Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?LiinaMassipa)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiinaMassipa&show_icons=true&bg_color=00000000)
 
 ## Tech Stack
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
