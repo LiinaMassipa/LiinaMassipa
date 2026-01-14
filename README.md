@@ -6,22 +6,17 @@ I am Software develper in the making sharing my interests and stuff I've learnt.
 
 
 🏫 A current Computer Science student at the [Namibia University of Science and Technology](https://www.bing.com/ck/a?!&&p=9824a333d7b5673eecfbe449aa635fa16f85eb6709d794b28a04244cc508c493JmltdHM9MTc2MDQwMDAwMA&ptn=3&ver=2&hsh=4&fclid=27d5bf96-6f27-6a37-3924-a9f96eee6bd0&psq=Namibia+University+of+Science+and+Technology&u=a1aHR0cHM6Ly93d3cubnVzdC5uYS8) <br>
-🌱 I’m currently learning full stack web development in chuncks <br>
+🌱 In the process of becoming a top software developer bit by bit. <br>
 👯 I’m open to collaborating <br>
-😐 I’m looking for help with tips and guidance <br>
+😐 Always open to contructive criticism, tips and guidance. <br>
  📫 How to reach me:  📧liinamassipa@outlook.com  discord: chill_girl_360 <br>
 ⚡ Fun fact: Franz Kafka never got to witness his works being published. <br>
 
-
-## GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?LiinaMassipa)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiinaMassipa&show_icons=true&bg_color=00000000)
 
 ## Tech Stack
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
 ![Scene Builder](https://img.shields.io/badge/Scene%20Builder-FF8C00.svg?style=for-the-badge&logo=javafx&logoColor=white)
-
 
 
 ## Learning Platforms
